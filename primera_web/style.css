@@ -1,0 +1,54 @@
+/* HERO */
+
+.hero{
+
+    background-image: url("patas.png");
+    background-repeat: repeat;
+    background-size: 180px;
+    background-position: center;
+
+    min-height: 85vh;
+
+}
+
+/* Overlay oscuro */
+
+.overlay{
+
+    min-height: 85vh;
+
+    background: rgba(0,0,0,.45);
+
+}
+
+/* Contenedor central */
+
+.contenido{
+
+    background: rgba(0,0,0,.60);
+
+    padding: 50px;
+
+    border-radius: 20px;
+
+    max-width: 700px;
+
+    width: 90%;
+
+    box-shadow: 0 0 20px rgba(0,0,0,.4);
+
+}
+
+/* Texto */
+
+.contenido h1{
+
+    margin-bottom:20px;
+
+}
+
+.contenido p{
+
+    margin-bottom:30px;
+
+}
